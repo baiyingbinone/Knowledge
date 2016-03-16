@@ -64,7 +64,7 @@ git checkout routes.js
 回退到上一次的commit
 
 git reset HEAD^
-回退到本次pull之前，(撤销本次pull)
+//回退到本次pull之前，(撤销本次pull)
 
 git reset --hard HEAD
 今天在一个分支上修改文件，然后线上已经更新了，我就是用git stash将修改的文件保存到缓存区，在checkout到master去pull了一次，然后我就忘记了切换到之前分支上git stash pop，在master上就git stash pop了，结果冲突了。在切换的时候出现needs merge的错误，然后谷歌了一下。。。
