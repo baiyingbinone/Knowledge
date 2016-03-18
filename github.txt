@@ -74,6 +74,6 @@ git reset --hard HEAD
 git reset --mixed
 然后git status查看状态，就解除冲突了，不会影响到之前的任何更改
 
-如果你想删除全部本地的修改
+//如果你想删除全部本地的修改
 
 git reset --hard origin/master
