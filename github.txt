@@ -59,7 +59,7 @@ git branch -d branch    // 删除本地分支
 比如，我想丢弃一个文件的所有改动：
 
 git checkout routes.js
-然后再使用git pull，就可以拿到server上的版本的代码了。
+//然后再使用git pull，就可以拿到server上的版本的代码了。
 
 回退到上一次的commit
 
