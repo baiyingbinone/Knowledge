@@ -8,7 +8,7 @@ changes：改变的意思；
 
 commit：可提交状态（本地保存）
 
-git commit -a //提交全部，把所有的changes变为commit
+git commit -a //提交全部，把所有的changes变为commit//
 
 git commit -a -m"这里填写你修改的提示语句"；这个命令可以跳过commit -a 之后的弹出编辑提示语句的编辑器
 
