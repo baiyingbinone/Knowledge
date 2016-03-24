@@ -56,7 +56,7 @@ git push origin :branch    //删除远程分支
 git branch -d branch    // 删除本地分支
 使用git checkout可以丢弃掉本地的改动，然后使用git pull去拿server上的最新更新。/
 
-比如，我想丢弃一个文件的所有改动：
+比如，我想丢弃一个文件的所有改动：// 比如
 
 git checkout routes.js
 //然后再使用git pull，就可以拿到server上的版本的代码了。
