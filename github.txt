@@ -4,7 +4,7 @@ git
 
 git status  //查看状态
 
-changes：改变的意思；
+changes：改变的意思；  changes:改变的意思
 
 commit：可提交状态（本地保存）
 
