@@ -18,7 +18,7 @@ git add   D://      //添加某一个文件 //添加某一个文件
 
 git add -A  //如果本地存在多份新添加的文件，就使用这个，不用一个一个add
 
-git commit -a --amend // 把本次的commit追加到上次的commit
+git commit -a --amend // 把本次的commit追加到上次的commit    把本次的commit追加到上次的commit
 
 git checkout -b issue88 //创建并切换到issue88分支
 
