@@ -28,7 +28,7 @@ git branch -a    //查看所有分支
 
 git checkout master   //切换到master分支 
 
-git fetch origin issue88    //从服务器端下载最新的文件 
+git fetch origin issue88    //从服务器端下载最新的文件    //从服务器端下载最新的文件
 
 git rebase issue88   //把最新的文件合并到本地的issue88 
 
