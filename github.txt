@@ -38,7 +38,7 @@ git pull origin master//从服务器端下载master最新文件到本地    //�
 
 git diff  // 比较当前文件和暂存区文件不同情况
 
-git merge <branch> //将branch分支合并到当前目录所在分支
+git merge <branch> //将branch分支合并到当前目录所在分支    //将branch分支合并到当前目录所在分支
  
 git clone //从服务端下载整个库到本地 从服务端下载整个库到本地
 
