@@ -30,8 +30,8 @@ git checkout master   //切换到master分支     //切换到master分支
 
 git fetch origin issue88    //从服务器端下载最新的文件    //从服务器端下载最新的文件
 
-git rebase issue88   //把最新的文件合并到本地的issue88 
-
+git rebase issue88   //把最新的文件合并到本地的issue88    /把最新的文件合并到本地的issue88 
+ 
 git push origin issue88  //把本地的issue88的commit上传到服务器端    //把本地的issue88的commit上传到服务器端
 
 git pull origin master//从服务器端下载master最新文件到本地    //从服务器端下载master最新文件到本地
