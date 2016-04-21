@@ -59,7 +59,7 @@ git branch -d branch    // 删除本地分支
 比如，我想丢弃一个文件的所有改动：// 比如
 
 git checkout routes.js
-//然后再使用git pull，就可以拿到server上的版本的代码了。
+//然后再使用git pull，就可以拿到server上的版本的代码了。  //然后再使用git pull，就可以拿到server上的版本的代码了。
 
 回退到上一次的commit//
 
@@ -74,6 +74,6 @@ git reset --hard HEAD
 git reset --mixed
 然后git status查看状态，就解除冲突了，不会影响到之前的任何更改
 
-//如果你想删除全部本地的修改
+//如果你想删除全部本地的修改  
 
 git reset --hard origin/master
