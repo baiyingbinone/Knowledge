@@ -20,7 +20,7 @@ git add -A  //如果本地存在多份新添加的文件，就使用这个，不
 
 git commit -a --amend // 把本次的commit追加到上次的commit    把本次的commit追加到上次的commit
 
-git checkout -b issue88 //创建并切换到issue88分支
+git checkout -b issue88 //创建并切换到issue88分支   //创建并切换到issue88分支
 
 git branch //查看本地分支     查看本地分支  查看本地分支
 
